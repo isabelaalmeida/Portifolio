@@ -1,0 +1,59 @@
+body{
+background-color: pink;
+}
+h1{
+	color:#000000;
+	font-family:Arial, Helvetica, serif;
+	font-style:oblique;
+	font-weight:bold;
+	font-size:30px;
+	text-align:center;
+}
+
+b {
+  border: 2px solid #696969;
+  position:relative;
+}
+fieldset{
+	border-style: dashed;
+	color:#000000;
+	border-color:Black;
+}
+a{
+	 float: reight;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 12px 16px;
+    text-decoration: none;
+	
+	
+ 
+}
+   p{ 
+    overflow: hidden;
+    background-color: #333;
+	width: 200px;
+	display:inline-block;
+	line-height: - 1.5;
+  
+   }
+
+}
+a:hover {
+    background-color: #ddd;
+    color: black;
+}
+table{
+	margin:0 auto;
+}
+.centro{
+	text-align: center;
+}
+img{
+	background-image: url(home/chapeleiro.jpeg); 
+	width: 110px;/* Faz a largura ficar igual a da largura da imagem de exemplo */
+	height: 110px;/* Faz a altura ficar igual a da altura da imagem de exemplo */
+	float:reight;
+  
+}
